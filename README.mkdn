@@ -1,16 +1,11 @@
-TEMASEK
+Farewell TEMASEK
 =======
 
 Official Notice
 ===============
-I have officially retired with effective 20 August 2016.
+Temasek officially retired effective 20 August 2016.
 
-I thank those whom had supported me all these years.
-
-I "may" continue just syncing cm sources until such day when CM goes into N.
-
-Farewell ....
-
+To do sync for own purposes with CM, I forked repositories from TEMASEK and thank him for his work over the years!
 
 Download the Source
 ===================
@@ -22,7 +17,7 @@ Initializing Repository
 
 Repo initialization:
 
-    $ repo init -u https://github.com/temasek/android.git -b cm-13.0
+    $ repo init -u https://github.com/frank-gro/android.git -b cm-13.0
 
 
 sync repo :
